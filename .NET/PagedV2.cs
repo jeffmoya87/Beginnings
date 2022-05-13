@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Sabio.Models
+namespace System.Models
 {
     public class PagedV2<T>
     {
