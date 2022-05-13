@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Models.Requests.Addresses
+namespace System.Models.Requests.Addresses
 {
     public class AddressAddRequest
     {
