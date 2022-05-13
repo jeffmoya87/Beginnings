@@ -1,4 +1,4 @@
-﻿namespace Sabio.Models.Coding_Challenge
+﻿namespace System.Models.Coding_Challenge
 {
     public class Student
     {
