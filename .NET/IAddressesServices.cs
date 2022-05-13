@@ -1,8 +1,8 @@
-﻿using Sabio.Models.Domain;
-using Sabio.Models.Requests.Addresses;
+﻿using System.Models.Domain;
+using System.Models.Requests.Addresses;
 using System.Collections.Generic;
 
-namespace Sabio.Services
+namespace System.Services
 {
     public interface IAddressesServices
     {
