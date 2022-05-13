@@ -1,6 +1,6 @@
-﻿using Sabio.Data;
-using Sabio.Data.Providers;
-using Sabio.Models.Coding_Challenge;
+﻿using System.Data;
+using System.Data.Providers;
+using System.Models.Coding_Challenge;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Services.Coding_Challenge
+namespace System.Services.Coding_Challenge
 {
     public class CourseServices : ICourseServices
     {
