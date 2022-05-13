@@ -1,8 +1,8 @@
-﻿using Sabio.Models.Domain;
-using Sabio.Models.Requests.Users;
+﻿using System.Models.Domain;
+using System.Models.Requests.Users;
 using System.Collections.Generic;
 
-namespace Sabio.Services
+namespace System.Services
 {
     public interface IUserServices
     {
