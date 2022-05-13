@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
-namespace Sabio.Models.Requests
+namespace System.Models.Requests
 {
     public class EntityUpdateRequest : IModelIdentifier
     {
