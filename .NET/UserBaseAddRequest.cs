@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Sabio.Models.Requests
+namespace System.Models.Requests
 {
     public class UserBaseAddRequest
     {
