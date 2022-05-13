@@ -1,4 +1,4 @@
-﻿namespace Sabio.Models.Domain
+﻿namespace System.Models.Domain
 {
     public class Skill
     {
