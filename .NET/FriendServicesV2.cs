@@ -1,10 +1,10 @@
 ﻿using Newtonsoft.Json;
-using Sabio.Data;
-using Sabio.Data.Providers;
-using Sabio.Models;
-using Sabio.Models.Domain;
-using Sabio.Models.Requests.Friends;
-using Sabio.Services.Interfaces;
+using System.Data;
+using System.Data.Providers;
+using System.Models;
+using System.Models.Domain;
+using System.Models.Requests.Friends;
+using System.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -13,7 +13,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Services
+namespace System.Services
 {
     public class FriendServicesV2 : IFriendServicesV2
     {
