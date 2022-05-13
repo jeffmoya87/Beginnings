@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sabio.Models.Coding_Challenge
+namespace System.Models.Coding_Challenge
 {
     public class CourseAddRequest
     {
