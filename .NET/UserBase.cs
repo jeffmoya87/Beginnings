@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Sabio.Models.Domain
+namespace System.Models.Domain
 {
     public class UserBase : IUserAuthData
     {
