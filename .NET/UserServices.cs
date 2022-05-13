@@ -5,14 +5,14 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Sabio.Data;
-using Sabio.Data.Providers;
-using Sabio.Models.Domain;
-using Sabio.Models.Requests.Addresses;
-using Sabio.Models.Requests.Friends;
-using Sabio.Models.Requests.Users;
+using System.Data;
+using System.Data.Providers;
+using System.Models.Domain;
+using System.Models.Requests.Addresses;
+using System.Models.Requests.Friends;
+using System.Models.Requests.Users;
 
-namespace Sabio.Services
+namespace System.Services
 {
     public class UserServices : IUserServices
     {
