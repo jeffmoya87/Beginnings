@@ -2,17 +2,17 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Sabio.Models;
-using Sabio.Models.Domain;
-using Sabio.Models.Requests.Friends;
-using Sabio.Services;
-using Sabio.Web.Controllers;
-using Sabio.Web.Models.Responses;
+using System.Models.Domain;
+using System.Models.Requests.Friends;
+using System.Services;
+using System.Web.Controllers;
+using System.Web.Models.Responses;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Security.Policy;
 
-namespace Sabio.Web.Api.Controllers
+namespace System.Web.Api.Controllers
 {
     [Route("api/friends")]
     [ApiController]
